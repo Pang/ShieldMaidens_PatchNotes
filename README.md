@@ -1,6 +1,6 @@
 # ShieldMaidens_TestReleases
 
-### Version 3.0 Notes
+### Version 0.3 Notes
 
 - Save slots & difficulty levels implemented
 - New Menu and dialog for selected No of players
