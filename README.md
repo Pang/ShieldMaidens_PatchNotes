@@ -5,6 +5,7 @@
 - Knight reskin & new animations
 - Knight now takes less damage due to armor
 - Menu redesigned
+- Camera movement upgrades
 - Removed a couple debugging errors appearing in console
 
 ### Version 0.3 Notes
