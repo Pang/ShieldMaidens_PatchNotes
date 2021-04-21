@@ -1,5 +1,12 @@
 # ShieldMaidens_TestReleases
 
+### Version 0.3.1 Notes
+- Archer and crossbow reskin
+- Knight reskin & new animations
+- Knight now takes less damage due to armor
+- Menu redesigned
+- Removed a couple debugging errors appearing in console
+
 ### Version 0.3 Notes
 
 - Save slots & difficulty levels implemented
