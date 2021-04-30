@@ -10,6 +10,8 @@
 Spent the last week researching hex-tilemaps as an open world map option but the implementation I had in mind would bring a huge scope creep.
 Will continue looking into other options to expand the world
 
+---
+
 ### Version 0.3.1 Notes [Apr 21, 2021]
 - Archer and crossbow reskin
 - Knight reskin
@@ -17,6 +19,8 @@ Will continue looking into other options to expand the world
 - Knight now takes less damage due to armor
 - Menu redesign
 - Camera movement changes
+
+---
 
 ### Version 0.3 Notes [Apr 16, 2021]
 
