@@ -6,6 +6,7 @@
 - Removed camera lookahead, was hard to see what was happening on screen when turning
 - UI changes to Opening scene
 - UI changes to shop
+- Fixed road perspective
 
 Spent the last week researching hex-tilemaps as an open world map option but the implementation I had in mind would bring a huge scope creep.
 Will continue looking into other options to expand the world
