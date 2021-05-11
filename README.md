@@ -1,5 +1,16 @@
 # ShieldMaidens_TestReleases
 
+### Version 0.3.5 Notes [May 11, 2021]
+- Old game menu removed and opening menu scene redesigned.
+- For saving progress you will find camp sites every so often that auto-save the game.
+- The shop will no longer be on the main menu, to spend your gold you'll now find travelling caravan at camp sites.
+- Old generated map parts now get destroyed after set distance reached, this also applies to enemies
+- Reanimated the fire
+- Mages fireball speed increased but longer cast time
+- Worked on the visuals by creating 'perspective' such as the angle you see some buildings which now look "3D". Alongside this removed the middle parallax layer.
+
+---
+
 ### Version 0.3.2 Notes [May 01, 2021]
 - Redrew the background hills in pillaging mode
 - Fixed the collider on the knight
