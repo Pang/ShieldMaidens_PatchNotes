@@ -1,7 +1,7 @@
 # ShieldMaidens_TestReleases
 
 ### Version 0.4 Notes [June 09, 2021]
-- ShieldMaidens first boss ~The Alchemist~ has been introduced! Watch out for poisonous toxins coming through the pipes and be ready to destroy its source by using his The Alchemist's own weapons against them. But be careful, once you enter their lair - there's no way out until you make one!
+- ShieldMaidens first boss *The Alchemist* has been introduced! Watch out for poisonous toxins coming through the pipes and be ready to destroy its source by using The Alchemist's own weapons against them. But be careful, once you enter their lair - there's no way out until you make one!
 - The Alchemist's chance to appear will increase once you pass your first camp. This is the first boss in the game so they'll likely appear a few times if you play long enough, plans to introduce more will be revealed soon.
 - Updated the archer tower, redrew and colored it with perspective as well as splitting the front/back assets to make it interact like a 3d space with the archer inside.
 - Co-op can now be enabled/disabled in-game from the pause menu.
