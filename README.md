@@ -9,6 +9,8 @@
 - Camera Y dampening removed due to getting stuck quite low after coming out of water. Camera Y position also altered so player is still looking relatively close to center of screen when following character whilst still being able to see above archer towers.
 - Timer for destroying dead enemy GameObjects reduced from 3s to 2s.
 
+---
+
 ### Version 0.3.5 Notes [May 11, 2021]
 - Old game menu removed and opening menu scene redesigned.
 - For saving progress you will find camp sites every so often that auto-save the game.
