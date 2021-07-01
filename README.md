@@ -1,6 +1,6 @@
 # ShieldMaidens_TestReleases
 
-### Version 0.4.1 Notes [June 09, 2021]
+### Version 0.4.1 Notes [July 01, 2021]
 - The Berserker has been introduced, keep your distance and dodge those leaping strikes by dashing!
 - Player now flashes red when damage taken.
 - Player will no longer collide with enemies, meaning you can run through/past them.
