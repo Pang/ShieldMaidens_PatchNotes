@@ -1,5 +1,12 @@
 # ShieldMaidens_TestReleases
 
+### Version 0.4.1 Notes [June 09, 2021]
+- The Berserker has been introduced, keep your distance and dodge those leaping strikes by dashing!
+- Player now flashes red when damage taken.
+- Player will no longer collide with enemies, meaning you can run through/past them.
+- You can now dodge melee attacks (try dashing) before their melee animation hits you.
+- Enemies with armor can no longer be knocked back.
+
 ### Version 0.4 Notes [June 09, 2021]
 - ShieldMaidens first boss *The Alchemist* has been introduced! Watch out for poisonous toxins coming through the pipes and be ready to destroy its source by using The Alchemist's own weapons against them. But be careful, once you enter their lair - there's no way out until you make one!
 - The Alchemist's chance to appear will increase once you pass your first camp. This is the first boss in the game so they'll likely appear a few times if you play long enough, plans to introduce more will be revealed soon.
