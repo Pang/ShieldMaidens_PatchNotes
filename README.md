@@ -1,5 +1,12 @@
 # ShieldMaidens_TestReleases
 
+### Version 0.4.2 Notes [July 10, 2021]
+- The Berserker pit has been implemented into the game, now you'll have to fight him in his own home!
+- The Berserker now has solid lines and has been coloured in to show off his golden headgear.
+- He's also been given particle animation, which triggers to show the area of damage from his leaping strike.
+- Enemies now flash red to indicate that you've hit them
+- Your thrown shield will no longer collide with enemies on return. This is to stop it getting stuck too often.
+
 ### Version 0.4.1 Notes [July 01, 2021]
 - The Berserker has been introduced, keep your distance and dodge those leaping strikes by dashing!
 - Player now flashes red when damage taken.
