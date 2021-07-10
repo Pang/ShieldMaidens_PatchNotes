@@ -7,6 +7,8 @@
 - Enemies now flash red to indicate that you've hit them
 - Your thrown shield will no longer collide with enemies on return. This is to stop it getting stuck too often.
 
+---
+
 ### Version 0.4.1 Notes [July 01, 2021]
 - The Berserker has been introduced, keep your distance and dodge those leaping strikes by dashing!
 - Player now flashes red when damage taken.
