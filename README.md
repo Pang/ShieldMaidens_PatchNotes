@@ -1,5 +1,16 @@
 # ShieldMaidens_TestReleases
 
+### Version 0.4.3 Notes [July 20, 2021]
+- The Sorcerer's tower has been revealed, seek her out before she becomes too powerful! Wait for the time to strike, she has her shield up whilst she fights, but becomes vulnerable when summoning allies.
+- The Alchemist has been buffed, their poison now does more than x2 more damage and the tank has twice as much health
+- The Berserkers walls have been fixed so you dont get stuck on them, also added spikes to make it clear you can't climb them. But don't try - you might just hurt yourself
+- During one pillage play-through, bosses will no longer appear again until all other bosses are defeated.
+- Scenes now look like you're running through a forest! The current assets are a placeholder until I start the asset redraw phase
+- Potions and Coin sprites now glow & are brighter so they stand out more
+- Small bugs like the mage's shooting direction lag has been fixed, and archers wont try shooting you through walls anymore
+
+---
+
 ### Version 0.4.2 Notes [July 10, 2021]
 - The Berserker pit has been implemented into the game, now you'll have to fight him in his own home!
 - The Berserker now has solid lines and has been coloured in to show off his golden headgear.
