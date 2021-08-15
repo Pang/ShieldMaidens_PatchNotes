@@ -1,12 +1,12 @@
 # ShieldMaidens_TestReleases
 
 ### Version 0.4.3 Notes [August 15, 2021]
-- You now have a settlement! starting the game will spawn you there and will act as your hub
+- You now have a settlement! Starting the game will spawn you there and it will act as your hub
 - Settlement building functionality is now in-game. It's currently in a prototype stage but more buildings will be added in the next few versions to aid you on your missions! Just go over to your building bench to get started
-- The world map can be found in your settlement when you interact with the questboard. From here you can select a mission to go on
-- Eovir is a friendly NPC that will be your trusty advisor, he is the first NPC with dialogue! You can interact with him again incase you skipped it
+- The world map can be found in your settlement and you can select missions by interacting with the questboard
+- Eovir is a friendly NPC that will be your trusty advisor and is the first NPC with dialogue! You can interact with him again incase you accidentally skipped
 - Camps now spawn right after a boss so you can continue your journey after a hard battle. Any other chance of a camp spawning is now 1 in 6.
-- Redesign on the background again, settlement has it's own variation
+- Redesign on the background again, your settlement has it's own variation too
 Side note: Couch co-op has been frozen as I'm currently reworking it, thanks for your patience!
 
 ---
