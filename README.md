@@ -1,6 +1,6 @@
 # ShieldMaidens_TestReleases
 
-### Version 0.4.3 Notes [August 15, 2021]
+### Version 0.4.4 Notes [August 15, 2021]
 - You now have a settlement! Starting the game will spawn you there and it will act as your hub
 - Settlement building functionality is now in-game. It's currently in a prototype stage but more buildings will be added in the next few versions to aid you on your missions! Just go over to your building bench to get started
 - The world map can be found in your settlement and you can select missions by interacting with the questboard
