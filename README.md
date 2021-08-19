@@ -9,6 +9,8 @@
   - A Blacksmith can be purchased for your settlement, you will now get health and shield upgrades from there instead of the caravans
   - An Apothecary can also be bought and built, potions can be purchased here for a little less gold than caravans!
 
+---
+
 ### Version 0.4.4 Notes [August 15, 2021]
 - You now have a settlement! Starting the game will spawn you there and it will act as your hub
 - Settlement building functionality is now in-game. It's currently in a prototype stage but more buildings will be added in the next few versions to aid you on your missions! Just go over to your building bench to get started
