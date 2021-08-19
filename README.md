@@ -5,7 +5,7 @@
 - Co op is back, you can enable/disable from the settlement from now on. So remember to enable before you head out on a mission with a friend!
 - Potions are now kept on you instead of being instantly consumed, you can press the keys 1 & 2 or up/down on a D-Pad. The shop has also been updated to sell potions to take with you.
 - Controls list now accessible through the pause menu
-- A couple more buildings have been placed, but these ones will cost gold:
+- A couple more buildings have been added, but these ones will cost gold:
   - A Blacksmith can be purchased for your settlement, you will now get health and shield upgrades from there instead of the caravans
   - An Apothecary can also be bought and built, potions can be purchased here for a little less gold than caravans!
 
