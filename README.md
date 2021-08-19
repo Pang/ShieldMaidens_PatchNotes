@@ -16,7 +16,7 @@
 - Eovir is a friendly NPC that will be your trusty advisor and is the first NPC with dialogue! You can interact with him again incase you accidentally skipped
 - Camps now spawn right after a boss so you can continue your journey after a hard battle. Any other chance of a camp spawning is now 1 in 6.
 - Redesign on the background again, your settlement has it's own variation too
-Side note: Couch co-op has been frozen as I'm currently reworking it, thanks for your patience!
+- Side note: Couch co-op has been frozen as I'm currently reworking it, thanks for your patience!
 
 ---
 
