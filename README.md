@@ -1,5 +1,14 @@
 # ShieldMaidens_TestReleases
 
+### Version 0.4.5 Notes [August 20 2021]
+- The wall jump mechanic has been removed. Having a double jump made wall jumping excessive and having some walls be climbable and others not was actually just inconsistent & annoying to players. If you're struggling to get over the keeps - try jumping on something else first :)
+- Co op is back, you can enable/disable from the settlement from now on. So remember to enable before you head out on a mission with a friend!
+- Potions are now kept on you instead of being instantly consumed, you can press the keys 1 & 2 or up/down on a D-Pad. The shop has also been updated to sell potions to take with you.
+- Controls list now accessible through the pause menu
+- A couple more buildings have been placed, but these ones will cost gold:
+  - A Blacksmith can be purchased for your settlement, you will now get health and shield upgrades from there instead of the caravans
+  - An Apothecary can also be bought and built, potions can be purchased here for a little less gold than caravans!
+
 ### Version 0.4.4 Notes [August 15, 2021]
 - You now have a settlement! Starting the game will spawn you there and it will act as your hub
 - Settlement building functionality is now in-game. It's currently in a prototype stage but more buildings will be added in the next few versions to aid you on your missions! Just go over to your building bench to get started
