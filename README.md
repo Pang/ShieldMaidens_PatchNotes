@@ -13,6 +13,7 @@
 - Some player camera follow changes in settlement & pillage mode. Made distance of FoV larger.
 - Code to make sure a camp will definitely spawns after a boss, as  sometimes this didn't happen
 - Caravan errors looking for missing items have been fixed
+- Couple little co op bugs sorted
 
 ---
 
