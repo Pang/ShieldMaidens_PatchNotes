@@ -1,5 +1,18 @@
 # ShieldMaidens_TestReleases
 
+### Version 0.4.6 Notes [September 10, 2021]
+- 2 Compositions added, one for the opening and pillage scene, the other more relaxing to fit your settlement!
+- Sound effects for hitting enemies, blocking arrows, picking up and using pots now in the game. There's also mute button on the pause menu just incase you want to listen to your own music ;)
+- The opening scene has now been animated, watch the shield fly in whilst the text pulses to the music
+- Collecting items now triggers a +1 floating animation above the player and using those items will light up the player with the color of the potion consumed
+- If item capacity limit is reached, you'll auto-consume instead of picking up. The UI has been updated to display max-capacity of items
+- Since there's currently one level, the map will display a "Pillage!" button in the top right instead of quest markers to not confuse new players during alpha
+- Arrows no longer bounce off your shield but stick into it for a short while, the physics of them bouncing off made no sense previously
+- Re-interacting with Eovir caused an event delegate issue which is now fixed, 
+- Clicking exit on menus wont make you throw your shield anymore and trade caravans/apothecary potion numbers are synced properly
+- Small changes to general UI, menus & text
+
+---
 ### Version 0.4.5 Notes [August 20, 2021]
 - The wall jump mechanic has been removed. Having a double jump made wall jumping excessive and having some walls be climbable and others not was actually just inconsistent & annoying to players. If you're struggling to get over the keeps - try jumping on something else first :)
 - Co op is back, you can enable/disable from the settlement from now on. So remember to enable before you head out on a mission with a friend!
