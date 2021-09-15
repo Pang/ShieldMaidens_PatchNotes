@@ -12,6 +12,13 @@
 - Clicking exit on menus wont make you throw your shield anymore and trade caravans/apothecary potion numbers are synced properly
 - Small changes to general UI, menus & text
 
+#### v0.4.6.1
+- More in-game sounds added (inc: all boss fights) and improved previously added sounds. Scene music also made quieter.
+- Added camera focus points during boss fights, This is to indicate to the player that these are significant events
+- Adjustments to how the camera follows you, the y-axis is no longer dead-zone but has a soft follow instead.
+- DeltaTime and frame issues no longer affecting speed of boss fights
+- Added an exit button to main menu (where load slots are) so it's easier to find
+
 ---
 ### Version 0.4.5 Notes [August 20, 2021]
 - The wall jump mechanic has been removed. Having a double jump made wall jumping excessive and having some walls be climbable and others not was actually just inconsistent & annoying to players. If you're struggling to get over the keeps - try jumping on something else first :)
