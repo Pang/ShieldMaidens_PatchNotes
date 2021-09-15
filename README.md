@@ -12,7 +12,7 @@
 - Clicking exit on menus wont make you throw your shield anymore and trade caravans/apothecary potion numbers are synced properly
 - Small changes to general UI, menus & text
 
-#### v0.4.6.1
+#### v0.4.6.1 [September 16, 2021]
 - More in-game sounds added (inc: all boss fights) and improved previously added sounds. Scene music also made quieter.
 - Added camera focus points during boss fights, This is to indicate to the player that these are significant events
 - Adjustments to how the camera follows you, the y-axis is no longer dead-zone but has a soft follow instead.
@@ -29,7 +29,7 @@
   - A Blacksmith can be purchased for your settlement, you will now get health and shield upgrades from there instead of the caravans
   - An Apothecary can also be bought and built, potions can be purchased here for a little less gold than caravans!
 
-#### v0.4.5.1
+#### v0.4.5.1 [August 21, 2021]
 - Some player camera follow changes in settlement & pillage mode. Made distance of FoV larger.
 - Code to make sure a camp will definitely spawns after a boss, as  sometimes this didn't happen
 - Caravan errors looking for missing items have been fixed
