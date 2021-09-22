@@ -1,5 +1,14 @@
 # ShieldMaidens_TestReleases
 
+#### v0.4.6.1 [September 16, 2021]
+- More in-game sounds added (inc: all boss fights) and improved previously added sounds. Scene music also made quieter.
+- Added camera focus points during boss fights, This is to indicate to the player that these are significant events
+- Adjustments to how the camera follows you, the y-axis is no longer dead-zone but has a soft follow instead.
+- DeltaTime and frame issues no longer affecting speed of boss fights
+- Added an exit button to main menu (where load slots are) so it's easier to find
+
+---
+
 ### Version 0.4.6 Notes [September 10, 2021]
 - 2 Compositions added, one for the opening and pillage scene, the other more relaxing to fit your settlement!
 - Sound effects for hitting enemies, blocking arrows, picking up and using pots now in the game. There's also mute button on the pause menu just incase you want to listen to your own music ;)
@@ -12,14 +21,16 @@
 - Clicking exit on menus wont make you throw your shield anymore and trade caravans/apothecary potion numbers are synced properly
 - Small changes to general UI, menus & text
 
-#### v0.4.6.1 [September 16, 2021]
-- More in-game sounds added (inc: all boss fights) and improved previously added sounds. Scene music also made quieter.
-- Added camera focus points during boss fights, This is to indicate to the player that these are significant events
-- Adjustments to how the camera follows you, the y-axis is no longer dead-zone but has a soft follow instead.
-- DeltaTime and frame issues no longer affecting speed of boss fights
-- Added an exit button to main menu (where load slots are) so it's easier to find
+---
+
+#### v0.4.5.1 [August 21, 2021]
+- Some player camera follow changes in settlement & pillage mode. Made distance of FoV larger.
+- Code to make sure a camp will definitely spawns after a boss, as  sometimes this didn't happen
+- Caravan errors looking for missing items have been fixed
+- Couple little co op bugs sorted
 
 ---
+
 ### Version 0.4.5 Notes [August 20, 2021]
 - The wall jump mechanic has been removed. Having a double jump made wall jumping excessive and having some walls be climbable and others not was actually just inconsistent & annoying to players. If you're struggling to get over the keeps - try jumping on something else first :)
 - Co op is back, you can enable/disable from the settlement from now on. So remember to enable before you head out on a mission with a friend!
@@ -28,12 +39,6 @@
 - A couple more buildings have been added, but these ones will cost gold:
   - A Blacksmith can be purchased for your settlement, you will now get health and shield upgrades from there instead of the caravans
   - An Apothecary can also be bought and built, potions can be purchased here for a little less gold than caravans!
-
-#### v0.4.5.1 [August 21, 2021]
-- Some player camera follow changes in settlement & pillage mode. Made distance of FoV larger.
-- Code to make sure a camp will definitely spawns after a boss, as  sometimes this didn't happen
-- Caravan errors looking for missing items have been fixed
-- Couple little co op bugs sorted
 
 ---
 
