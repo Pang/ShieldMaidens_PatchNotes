@@ -1,5 +1,18 @@
 # ShieldMaidens_TestReleases
 
+#### v0.4.7 [September 26, 2021]
+
+- Background separation, re-drawn the hills with plenty trees and placed them in the back to create more parallax.
+- Save slots can now be deleted. Confirm dialogs will appear so you don't accidentally hit the delete button
+- Whilst playing co-op, dead players will now be revived at camps so you can continue your journey together
+- Changes to the building, stores and game mode user interfaces to be more user friendly!
+- There are now 2 modes instead of 3 (Normal/Expert). You may need to delete your previous saves but you get 1000g for free on new game
+- A hole has been drawn and placed around the mage tower, doesn't just appear to be floating out of nowhere anymore!
+- Lots of refactoring enemy scripts and base classes etc (Meaning I can expand the array of hostile enemies and bosses more efficiently)
+- Bosses can no longer be affected by rune specials
+
+---
+
 #### v0.4.6.1 [September 16, 2021]
 - More in-game sounds added (inc: all boss fights) and improved previously added sounds. Scene music also made quieter.
 - Added camera focus points during boss fights, This is to indicate to the player that these are significant events
@@ -128,7 +141,6 @@ Will continue looking into other options to expand the world
 ---
 
 ### Version 0.3 Notes [Apr 16, 2021]
-
 - Save slots & difficulty levels implemented
 - New Menu and dialog for selected No of players
 - Upgrade shop to spend your gold
