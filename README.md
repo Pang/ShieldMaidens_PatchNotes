@@ -1,6 +1,6 @@
 # ShieldMaidens_TestReleases
 
-#### v0.4.7 [September 26, 2021]
+### v0.4.7 [September 26, 2021]
 
 - Background separation, re-drawn the hills with plenty trees and placed them in the back to create more parallax.
 - Save slots can now be deleted. Confirm dialogs will appear so you don't accidentally hit the delete button
