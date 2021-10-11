@@ -1,7 +1,17 @@
 # ShieldMaidens_TestReleases
 
-### v0.4.7 [September 26, 2021]
+### v0.4.8 [October 11, 2021]
+- The Kraken has been released! A fourth boss has been added into the mix but this time you're fighting it from a boat
+- A bow has been added to your arsenal, hold down to aim - release to let go!
+- You can now switch between weapons as long as your shield isn't flying across the map
+- The artstyle has changed and is now 2.5d! (whatever that means)
+- Enemy Archers have been to a shooting bootcamp and are much more careful with their aim
+- Lots of refactoring. Player scripts in particular so that weapons can be swapped in & out
+PS: A quick tip for this boss-fight, deal with the archers on the lighthouses first :)
 
+---
+
+### v0.4.7 [September 26, 2021]
 - Background separation, re-drawn the hills with plenty trees and placed them in the back to create more parallax.
 - Save slots can now be deleted. Confirm dialogs will appear so you don't accidentally hit the delete button
 - Whilst playing co-op, dead players will now be revived at camps so you can continue your journey together
