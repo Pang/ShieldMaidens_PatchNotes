@@ -1,5 +1,12 @@
 # ShieldMaidens_TestReleases
 
+### v0.4.9 [October 26, 2021]
+- Improved overall visuals with a terrain sprite, fog in the background & clouds
+- Added a 2h sword as a secondary weapon choice. This weapon can deflect projectiles and hit mutliple enemies
+- The home is now interactable and has a menu to switch your secondary weapon
+- krakens health slightly lowered
+Note: Rest of player customizing will be released in v0.4.9.1 & game will now only be playable by private beta testers until early release
+
 ### v0.4.8 [October 11, 2021]
 - The Kraken has been released! A fourth boss has been added into the mix but this time you're fighting it from a boat
 - A bow has been added to your arsenal, hold down to aim - release to let go!
