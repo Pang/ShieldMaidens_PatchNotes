@@ -9,7 +9,7 @@
 - Forest trees & clouds have been redrawn & digitally painted, the river scene has been updated alongside this.
 - Settlement has moved around, you’ll now find your workbench and questboard in the middle
 - Lots of bug fixes like player arrows sprite layer rectified, shield won’t go under the map anymore, camera focus improvements in boss fight scenes and arrows shouldn’t bounce off invisible walls anymore
-- Online beta will allow you to host from your own computer, the host will need to share their IP to the person they wish to play with. This is currently a work in progress and not fully implemented!
+- Online beta will allow you to host from your own computer, the host will need to share their IP to the person they wish to play with but leaving the address box empty will join anyone hosting on the same LAN. This is currently a work in progress and not fully implemented!
 - Minor performance improvements & health bar now more visible on player/npcs
 
 ---
