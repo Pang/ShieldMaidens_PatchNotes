@@ -1,4 +1,18 @@
-# ShieldMaidens_TestReleases
+# ShieldMaidens_PatchNotes
+
+### v0.4.9.5 [November 22, 2021]
+- Players can now customize their appearance at their settlement homes! This includes Skin tone & changing hairstyles / wearing helmets.
+- Rune-crafter buildings can now be placed in settlements. You won’t find runes in travelling caravan stores anymore.
+- Major animation overhaul, player attacks, abilities, spells. Bosses have also had their abilities and scene animations updated
+- A reward chest will summon itself at the end of a boss fight which you can pick up! This was a better experience than having 100 gold coins flying your way - plus they may contain other rewards in future.
+- Blacksmiths will now sell secondary weapons rather than health/dmg upgrades. Your secondary slot can be switched at the player's home.
+- Forest trees & clouds have been redrawn & digitally painted, the river scene has been updated alongside this.
+- Settlement has moved around, you’ll now find your workbench and questboard in the middle
+- Lots of bug fixes like player arrows sprite layer rectified, shield won’t go under the map anymore, camera focus improvements in boss fight scenes and arrows shouldn’t bounce off invisible walls anymore
+- Online beta will allow you to host from your own computer, you’ll need to share your ID with anyone you want to battle it out with. This is currently a work in progress and not fully implemented!
+- Minor performance improvements & health bar now more visible on player/npcs
+
+---
 
 ### v0.4.9 [October 26, 2021]
 - Improved overall visuals with a terrain sprite, fog in the background & clouds
@@ -6,6 +20,8 @@
 - The home is now interactable and has a menu to switch your secondary weapon
 - krakens health slightly lowered
 Note: Rest of player customizing will be released in v0.4.9.1
+
+---
 
 ### v0.4.8 [October 11, 2021]
 - The Kraken has been released! A fourth boss has been added into the mix but this time you're fighting it from a boat
