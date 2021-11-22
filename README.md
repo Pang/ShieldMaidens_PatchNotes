@@ -2,7 +2,7 @@
 
 ### v0.4.9.5 [November 22, 2021]
 - Players can now customize their appearance at their settlement homes! This includes Skin tone & changing hairstyles / wearing helmets.
-- Rune-crafter buildings can now be placed in settlements. You won’t find runes in travelling caravan stores anymore.
+- Rune-crafter buildings can now be placed in settlements. You won’t find runes in travelling caravans anymore but their effects will now work with all secondary weapons as well as your shield!
 - Major animation overhaul, player attacks, abilities, spells. Bosses have also had their abilities and scene animations updated
 - A reward chest will summon itself at the end of a boss fight which you can pick up! This was a better experience than having 100 gold coins flying your way - plus they may contain other rewards in future.
 - Blacksmiths will now sell secondary weapons rather than health/dmg upgrades. Your secondary slot can be switched at the player's home.
