@@ -1,5 +1,23 @@
 # ShieldMaidens_PatchNotes
 
+### v0.5 patch notes [COMING SOON]
+- Your shield can now slot 3 runes, as more runes are added to the game you will have to decide which 3 to take on your adventures 
+- Mischief rune: when equipped, it has a different special trigger effect for each weapon
+  - A bow will trigger a chance to shoot mischief magic whichever way you aim
+  - Swords will extend your reach, dealing more damage and hitting multiple enemies further away
+  - Your shield will have a chance to conjure a magical shield to replace it upon hitting enemies
+- Pause menu will show currently equipped runes, hover a rune for more info
+- LAN mode is in beta but you can play around and fight locally with weapons (runes not yet activated)
+- 2 new scenes for the randomly generated pillage, both newly drawn:
+  - The first being a cave where you need to dodge falling stalactites, but with plenty items to be found! 
+  - The second being spiked barricades where you'll need to carefully jump and dash across to avoid falling into them
+- Health potions give x2 more health (+30 now)
+- Enemies now drop items rather than them appearing around the world
+- You can jump whilst in water so you can't get stuck anymore
+- Mural tower made easier to jump over and co op max distance increased after watching some live test gameplay
+
+---
+
 ### v0.4.9.5 [November 22, 2021]
 - Players can now customize their appearance at their settlement homes! This includes Skin tone & changing hairstyles / wearing helmets.
 - Rune-crafter buildings can now be placed in settlements. You won’t find runes in travelling caravans anymore but their effects will now work with all secondary weapons as well as your shield!
