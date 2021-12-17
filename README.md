@@ -7,7 +7,7 @@
   - Swords will extend your reach, dealing more damage and hitting multiple enemies further away
   - Your shield will have a chance to conjure a magical shield to replace it upon hitting enemies
 - Pause menu will show currently equipped runes, hover a rune for more info
-- LAN mode is in beta but you can play around and fight locally with weapons (runes not yet activated)
+- LAN test mode available, you can play around and fight locally without runes
 - 2 new scenes for the randomly generated pillage, both newly drawn:
   - The first being a cave where you need to dodge falling stalactites, but with plenty items to be found! 
   - The second being spiked barricades where you'll need to carefully jump and dash across to avoid falling into them
