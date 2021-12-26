@@ -1,5 +1,20 @@
 # ShieldMaidens_PatchNotes
 
+### v0.5.1 patch notes [December 26, 2021]
+- Goblin caves will now randomy appear on your pillages. The ground scouts are quick, but goblins are also pretty sharp with a bow
+- Number of players will now be selected before entering a pillage, and keyboard/gamepad can be switched from the Controls section under the pause menu
+- Potions that dropped from enemies in lighthouses couldn't previously be reached - so no you can collect them by throwing your shield at them
+- The Kraken has been revamped & made easier, their tentacles are now your main target, health has been lowered and one of the archers has handed in his resignation!
+- Alchemist is now a little slower at throwing bombs
+- Screen shaking! Now you'll really feel (or think you did) when the tentacles slam down on the boat
+- If you run too far backwards on the map you'll be blocked and see a warning message saying you've gone too far.
+- UI tweaks and icons added
+- Bugs:
+  - Alchemist tank now can not be hit until scene starts
+  - Knights disappearing behind cave entrances fixed
+  - NPC's cant hit hurt twice by same shield
+  - Boss list refresh if all cleared
+
 ### v0.5 patch notes [December 20, 2021]
 - Your shield can now slot 3 runes, as more runes are added to the game you will have to decide which 3 to take on your adventures 
 - Mischief rune: when equipped, it has a different special trigger effect for each weapon
