@@ -12,8 +12,8 @@
 - Bugs:
   - Alchemist tank now can not be hit until scene starts
   - Knights disappearing behind cave entrances fixed
-  - NPC's cant hit hurt twice by same shield
-  - Boss list refresh if all cleared
+  - NPC's cant be hurt twice by same shield
+  - Boss list refreshes if all bosses cleared
 
 ---
 
