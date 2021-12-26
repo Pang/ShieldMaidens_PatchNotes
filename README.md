@@ -15,6 +15,8 @@
   - NPC's cant hit hurt twice by same shield
   - Boss list refresh if all cleared
 
+---
+
 ### v0.5 patch notes [December 20, 2021]
 - Your shield can now slot 3 runes, as more runes are added to the game you will have to decide which 3 to take on your adventures 
 - Mischief rune: when equipped, it has a different special trigger effect for each weapon
