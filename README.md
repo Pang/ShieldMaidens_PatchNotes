@@ -1,5 +1,20 @@
 # ShieldMaidens_PatchNotes
 
+### v0.5.2 patch notes [December 30, 2021]
+- A new loadout menu in the starting scene
+- Bows are now a secondary option in the demo
+- New runes added and available to choose from:
+  - Surtr rune makes your dash go further and damages enemies you pass through
+  - Valkyrie rune gives you wings to triple jump
+  - Svalinn rune lets player summon a huge static barrier to protect them for 5 seconds
+- The Svalinn rune has an icon in the top left of the UI below your info to show when you can use it again
+- Hitting enemies with a projectile now shows a collision animation
+- Goblin archer towers a little higher and targets made bigger too!
+- Drawn a new shield as the original was from an asset pack I never got round to changing
+- The settlement area has been removed from the core game, partly since the scope was getting out of hand again, but also because I want to put more energy into the core mechanics that make it fun to play in both single player and co op
+
+---
+
 ### v0.5.1 patch notes [December 26, 2021]
 - Goblin caves will now randomy appear on your pillages. The ground scouts are quick, but goblins are also pretty sharp with a bow
 - Number of players will now be selected before entering a pillage, and keyboard/gamepad can be switched from the Controls section under the pause menu
