@@ -1,5 +1,15 @@
 # ShieldMaidens_PatchNotes
 
+### v0.5.3 patch notes [January 19, 2021]
+- Elf wizards have began emerging from the forest. They cast unpredictable projectiles that move in a sine pattern and follow you until something blocks them!
+- A timer has been added to the top right of the UI during pillages so you can see how long you've survived so far.
+- Expanding on that timer - there's a new scoreboard to keep track of your best runs. Best score are the ones where you killed the most bosses in the least time
+- Once you've defeated all current bosses, you'll be presented with an end-game screen to congratulate you on a successful run!
+- Removed knockback from some enemies and projectiles to avoid flying across map when dashing as this happens
+- UI accessibility improvements
+- Lots of bug fixes
+
+---
 ### v0.5.2 patch notes [December 30, 2021]
 - A new loadout menu in the starting scene
 - Bows are now a secondary option in the demo
