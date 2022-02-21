@@ -1,6 +1,15 @@
 # ShieldMaidens_PatchNotes
 
-### v0.5.3 patch notes [January 19, 2021]
+### v0.5.4 patch notes [February 21, 2022]
+- Every run you play will now randomly pick a different skin for your shield
+- Prefer only using a shield? Now you can select it from the loadout and carry a slightly larger one!
+- Kraken map overlapping the cave bug has been fixed
+- Added a back button to the LAN menu
+- Arrows stuck in your shield disappear when thrown
+
+---
+
+### v0.5.3 patch notes [January 19, 2022]
 - Elf wizards have began emerging from the forest. They cast unpredictable projectiles that move in a sine pattern and follow you until something blocks them!
 - A timer has been added to the top right of the UI during pillages so you can see how long you've survived so far.
 - Expanding on that timer - there's a new scoreboard to keep track of your best runs. Best score are the ones where you killed the most bosses in the least time
