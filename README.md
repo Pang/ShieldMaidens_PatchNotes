@@ -2,7 +2,7 @@
 
 
 ### v0.5.5 patch notes [July 03, 2022]
-- Online PvP is here! Please note it's very alpha-stage but you can no host games and join using a shared code thanks to Unity's new relay service.
+- Online PvP is here! Please note it's very alpha-stage but you can now host games and join using a shared code thanks to Unity's new relay service.
   - Host games button allows you to act as the server & client, the join code will be visible on the UI for sharing
   - To join a game input the join code and his Join, this will attempt to connect to the host's game and spawn you in if successful
 - Updated project to Unity 2021 and made lots of run-time performances changes in the codebase
